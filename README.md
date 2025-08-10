@@ -24,10 +24,10 @@ https://expense-tracker-virid-sigma.vercel.app/
    - Calculates total income and total expenses separately.
    - Displays net income (total income - total expenses).
 
-5.**Responsive Design**
+- **Responsive Design**
    - Works seamlessly on desktop, tablet, and mobile devices.
 
-6.**Input Validation**
+- **Input Validation**
    - Ensures valid data entry before saving.
    - Shows error messages for incomplete or incorrect information.
 
