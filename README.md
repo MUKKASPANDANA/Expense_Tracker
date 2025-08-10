@@ -8,9 +8,9 @@ https://expense-tracker-virid-sigma.vercel.app/
 
 1.**Add Income & Expense Transactions**
 
-    -Separate input options for income and expenses.
+-Separate input options for income and expenses.
 
-    -Fields for date, description, category, and amount.
+-Fields for date, description, category, and amount.
 
     -Validates inputs to ensure correct data entry.
 
